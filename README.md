@@ -43,7 +43,7 @@ Your tasks are to:
 
 ---
 
-## 🤖 Model Training & Evaluation
+## **Part B: 🤖 Model Training and Performance Assessment**
 For each imputed dataset (A–D):
 - Data split into **train/test** sets  
 - Standardized features using `StandardScaler`  
@@ -54,7 +54,7 @@ Performance metrics were compared across all four datasets.
 
 ---
 
-## 📈 Key Insights
+## **Part C: 📈 Comparative Analysis**
 - Regression-based imputation (Linear & Non-Linear) generally outperforms simple median imputation.  
 - Listwise deletion often leads to **data loss** and degraded performance.  
 - The **choice of imputation** method significantly affects classifier results.  
