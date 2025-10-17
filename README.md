@@ -101,7 +101,8 @@ Performance metrics were compared across all four datasets.
 ---
 
 ## 👨‍💻 Author
-**Aravindhan M** 
+**Aravindhan M** </br>
+
 **MS Scholar in Data Science and Artficial Intelligence at IIT Madras**  
 *Data Engineer | Data Science Enthusiast*
 
